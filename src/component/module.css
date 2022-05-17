@@ -1,0 +1,8 @@
+.main_div{
+    border:1px solid rgb(36, 33, 33);
+}
+
+p:nth-child(1){
+    color:red;
+    font-weight: bold;
+}
